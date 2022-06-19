@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>orange.jpg</file>
+    <file>icon_northeastern.jpg</file>
+  </qresource>
+  <qresource prefix="新前缀">
+    <file>加密文件1_file-lock-one.png</file>
+    <file>加密文件_file-lock (1).png</file>
+    <file>加密文件_file-lock.png</file>
+    <file>信息安全_message-security.png</file>
+  </qresource>
+  <qresource prefix="新前缀"/>
+</RCC>
